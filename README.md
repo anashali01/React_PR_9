@@ -7,7 +7,7 @@ A **Todo list** app built with **React**, **Redux Toolkit**, **Vite**, and **Boo
 | | |
 | --- | --- |
 | **Repository** | [github.com/anashali01/React_PR_9](https://github.com/anashali01/React_PR_9) |
-| **Live demo** | **[Replace with your deployed URL](https://YOUR-LIVE-DEMO-URL)** |
+| **Live demo** | **[Deployed URL]([https://YOUR-LIVE-DEMO-URL](https://react-pr-9.vercel.app/))** |
 
 After you deploy the production build (for example with [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or Firebase Hosting), edit this README and set **Live demo** to your real public URL.
 
